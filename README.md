@@ -1,2 +1,0 @@
-# GrandCare-
-Web application
